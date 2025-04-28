@@ -4,7 +4,7 @@ import userModel from "../models/userModel.js";
 import razorpay from "../razorpay.js";
 
 const placeOrder = async (req, res) => {
-  const frontend_url = "http://localhost:5174";
+  const frontend_url = "https://catering-reservation-and-ordering-system-1xyt.onrender.com/";
 
   try {
     const { userId, items, amount, address } = req.body;

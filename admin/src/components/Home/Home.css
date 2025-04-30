@@ -1,0 +1,37 @@
+.home {
+  height: 50vw;
+  width: 100%;
+  background-image: url("/14589.jpg");
+  background-size: contain; /* ✅ Shows full image */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #f0f0f0; /* Optional: fill behind transparent/empty areas */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0;
+  box-sizing: border-box;
+  margin-top: 10px;
+}
+@media (max-width: 1024px) {
+  .home {
+    height: 70vw;
+  }
+}
+
+@media (max-width: 1244px) {
+  .home {
+    height: 75vw;
+  }
+}
+
+@media (max-width: 904px) {
+  .home {
+    height: 82vw;
+  }
+}
+@media (max-width: 884px) {
+  .home {
+    height: 100vw;
+  }
+}

@@ -12,3 +12,34 @@
 .navbar .profile {
   width: 40px;
 }
+.navbar-right {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.navbar-profile {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+.navbar button {
+  background: transparent;
+  font-size: 16px;
+  color: #49557e;
+  border: 1px solid tomato;
+  padding: 10px 30px;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.navbar .logout {
+  background-color: tomato;
+  color: aliceblue;
+  padding: 9px 14px;
+}
+
+.navbar button:hover {
+  background-color: #fff4f2;
+}

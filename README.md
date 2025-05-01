@@ -214,23 +214,65 @@ You can access the live application here:
 👉 [Live Demo for Frontend](https://catering-reservation-and-ordering-system-1xyt.onrender.com)
 
 👉 [Live Demo for Admin](https://catering-reservation-and-ordering-system-li1p.onrender.com)
+
 ## Screenshots
 
                           
+### 🏠 Home Page
+![HomePage1](https://github.com/user-attachments/assets/ff5aec2c-7c76-45c2-be25-262ef1ff2bdc)
 
-![Home Page1](https://github.com/user-attachments/assets/ff5aec2c-7c76-45c2-be25-262ef1ff2bdc)
-![Home Page2](https://github.com/user-attachments/assets/0c56fdbb-fd7c-4ed8-86bd-2026e35bc8a5)
+![Home Page 2](https://github.com/user-attachments/assets/0c56fdbb-fd7c-4ed8-86bd-2026e35bc8a5)
+
+---
+
+### 🔻 Footer
 ![Footer](https://github.com/user-attachments/assets/28312a8f-d12d-4621-93da-b3f45d4540f3)
-![UserLogin](https://github.com/user-attachments/assets/ac4b63e4-c268-4172-9e4a-845e08cf47d1)
-![UserSignUp](https://github.com/user-attachments/assets/959ea084-c90f-4727-a33e-78f78592ced5)
+
+---
+
+### 👤 User Authentication
+**Login**
+![User Login](https://github.com/user-attachments/assets/ac4b63e4-c268-4172-9e4a-845e08cf47d1)
+
+**Sign Up**
+![User SignUp](https://github.com/user-attachments/assets/959ea084-c90f-4727-a33e-78f78592ced5)
+
+---
+
+### 🛒 Shopping
+**Add to Cart**
 ![Add to cart](https://github.com/user-attachments/assets/4e991a74-bee1-4a54-8f6d-db8ad7f3664b)
+
+**Cart Page**
 ![Cart Page](https://github.com/user-attachments/assets/64c37ad5-a3b1-406a-8fc4-76e7c8f0a5ec)
+
+**Place Order**
 ![Place Order](https://github.com/user-attachments/assets/b9c61c01-bfba-48e0-9704-620c565b7606)
+
+**Payment**
 ![Payment](https://github.com/user-attachments/assets/f30a8d46-cc5e-441b-a84c-7646bf224dfc)
+
+**My Orders**
 ![My Order](https://github.com/user-attachments/assets/61d583a3-5b53-4e00-9c99-e00a0b33cfdb)
+
+---
+
+### 🛠️ Admin Panel
+
+**Admin Landing Page**
 ![Admin Landing Page](https://github.com/user-attachments/assets/425908b1-2a5d-47cd-8cab-4455cecfa240)
+
+**Login**
 ![Admin Login](https://github.com/user-attachments/assets/861be7f5-bd08-4938-9df3-9dc237587a1e)
+
+**Sign Up**
 ![Admin SignUp](https://github.com/user-attachments/assets/a82160e8-c7ec-49a9-a573-a6a667bd3fcb)
+
+**Upload Product Details**
 ![Upload Product Details](https://github.com/user-attachments/assets/db8520e3-e557-4bd4-b247-87ec40934b72)
+
+**List Product**
 ![List Product](https://github.com/user-attachments/assets/12a93ebb-e2da-489b-87f8-ad36e310b2cb)
+
+**View Orders**
 ![View Orders](https://github.com/user-attachments/assets/a27eb850-f33f-4b4d-af2e-eb11e6eecbb1)

@@ -6,7 +6,7 @@ This is a MERN stack project designed to manage catering reservations and food o
 
 
 ## Features
----
+
 
 ### 👤 User Features
 
@@ -25,7 +25,7 @@ View and manage both current and past orders, including order status.
 #### Place Order
 Review items in the cart, confirm details, and submit the order for processing.
 
----
+
 
 ### 🛠️ Admin Features
 
@@ -97,7 +97,7 @@ Monitor, list, and update the status of customer orders in real-time.
 
 To run this project locally, follow these steps:
 
----
+
 
 ### 1️⃣ Clone the Repository
 
@@ -105,7 +105,7 @@ To run this project locally, follow these steps:
 git clone https://github.com/Athira-vk/Catering-Reservation-and-Ordering-System.git
 ```
 
----
+
 
 ### 2️⃣ Install Project Dependencies
 
@@ -130,7 +130,7 @@ cd frontend
 npm install
 ```
 
----
+
 
 ### 3️⃣ Set Up Environment Variables
 
@@ -138,15 +138,15 @@ npm install
 
 Create a `.env` file inside the `backend/` directory with the following content:
 
-```
+
 JWT_KEY=''
 RAZORPAY_KEY_ID=
 RAZORPAY_KEY_SECRET=
-```
+
 
 Also, configure MongoDB in `config/db.js` with your connection string.
 
----
+
 
 ### 4️⃣ Configure API URLs
 
@@ -171,7 +171,7 @@ In the `backend/orderController.js` file, add:
 frontend_url= "http://localhost:5173";
 ```
 
----
+
 
 ### 5️⃣ Start the Application
 
@@ -194,7 +194,7 @@ npm run dev
 cd frontend
 npm run dev
 ```
----
+
 
 ### ✅ Application Running
 
@@ -204,7 +204,7 @@ npm run dev
 
 Make sure MongoDB is running before starting the backend.
 
----
+
 
     
 ## Demo
@@ -218,11 +218,11 @@ You can access the live application here:
 
                           
 
-![Home Page 1](https://github.com/user-attachments/assets/ff5aec2c-7c76-45c2-be25-262ef1ff2bdc)
-![Home Page 2](https://github.com/user-attachments/assets/0c56fdbb-fd7c-4ed8-86bd-2026e35bc8a5)
+![Home Page1](https://github.com/user-attachments/assets/ff5aec2c-7c76-45c2-be25-262ef1ff2bdc)
+![Home Page2](https://github.com/user-attachments/assets/0c56fdbb-fd7c-4ed8-86bd-2026e35bc8a5)
 ![Footer](https://github.com/user-attachments/assets/28312a8f-d12d-4621-93da-b3f45d4540f3)
-![User Login](https://github.com/user-attachments/assets/ac4b63e4-c268-4172-9e4a-845e08cf47d1)
-![User SignUp](https://github.com/user-attachments/assets/959ea084-c90f-4727-a33e-78f78592ced5)
+![UserLogin](https://github.com/user-attachments/assets/ac4b63e4-c268-4172-9e4a-845e08cf47d1)
+![UserSignUp](https://github.com/user-attachments/assets/959ea084-c90f-4727-a33e-78f78592ced5)
 ![Add to cart](https://github.com/user-attachments/assets/4e991a74-bee1-4a54-8f6d-db8ad7f3664b)
 ![Cart Page](https://github.com/user-attachments/assets/64c37ad5-a3b1-406a-8fc4-76e7c8f0a5ec)
 ![Place Order](https://github.com/user-attachments/assets/b9c61c01-bfba-48e0-9704-620c565b7606)

@@ -79,6 +79,7 @@ Monitor, list, and update the status of customer orders in real-time.
 - **axios** – API calls
 - **react toastify** – Notifications
 - **jwt-decode** – Token decoding
+- **Others**: HTML, CSS, JavaScript
 
 ### Backend
 - **express** – Server/API

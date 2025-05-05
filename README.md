@@ -214,7 +214,10 @@ Make sure MongoDB is running before starting the backend.
 You can access the live application here:  
 👉 [Live Demo for Frontend](https://catering-reservation-and-ordering-system-1xyt.onrender.com)
 
-👉 [Live Demo for Admin](https://catering-reservation-and-ordering-system-li1p.onrender.com)
+👉 [Live Demo for Admin](https://catering-reservation-and-ordering-system-li1p.onrender.com) 
+
+  #### admin-email : athi@gmail.com
+  #### admin-password : 12345678
 
 ## Screenshots
 

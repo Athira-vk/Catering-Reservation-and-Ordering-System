@@ -10,7 +10,10 @@ const loginAdmin = async (req, res) => {
     const admin = await adminModel.findOne({ email });
 
     if (!admin) {
-      return res.json({ success: false, message: "Admin Doesn't exit" });
+      return res.json({
+        success: false,
+        message: "Admin Doesn't exit and  create a new account",
+      });
     }
 
     const isMatch = await bcrypt.compare(password, admin.password);
